@@ -9,6 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class Hola {
     @GetMapping
     public String getHola(){
-        return "chau coders!";
+        return "modificadp coders!";
     }
 }
